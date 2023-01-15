@@ -1,0 +1,292 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width:320px) and (max-width: 575.98px) { 
+    .up_text h3 {
+        text-align: center;
+    }
+    .ms-auto {
+        text-align: center;
+    }
+    .banner_text {
+        text-align: center;
+    }
+.top_tsext{
+    text-align: center;
+}
+.mthg_top {
+	margin-top: 60px;
+}
+.lgog_div {
+	height: 200px;
+}
+.marontop02 {
+	margin-top: 22px;
+}
+.team_img_part{
+    margin-top: 20px;
+}
+.element {
+	margin-top: 30px;
+}
+
+.testmonial_itemss {
+	height: 245px;
+}
+.div_box {
+	top: -8%;
+    left: 43%;
+}
+
+.text-center {
+	margin-top: 30px;
+}
+.lower_logo{
+    text-align: center;
+}
+.contract_part{
+    text-align: center;
+}
+.iconsphone {
+	margin-bottom: -35px;
+	margin-left: 4px;
+}
+.numberss {
+	margin-top: -20px;
+}
+.importlink{
+    text-align: center;
+}
+.link_part{
+    padding-left: 10px;
+}
+.fliker_part{
+    text-align: center;
+    margin-top: 27px;
+  }
+  .fliker_item h3 {
+	
+	font-size: 25px;
+}
+
+.importlink h3 {
+	
+	font-size: 25px;
+	
+}
+
+.contracttt h3 {
+
+	font-size: 25px;
+}
+.text-center {
+	margin-top: 4px;
+}
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+.banner_text{
+    text-align: center;
+}
+.up_text{
+    text-align: center;
+}
+.ms-auto {
+	text-align: center;
+}
+.top_tsext{
+    text-align: center;
+}
+.mthg_top {
+	margin-top: 50px;
+}
+.marontop02 {
+	margin-top: 25px;
+}
+.team_icon {	
+	right: 26%;
+}
+.team_icon01 {	
+	right: 26%;
+}
+.team_icon02 {	
+	right: 26%;
+}
+.team_icon03 {	
+	right: 26%;
+}
+.text-center {
+	margin-top: 30px;
+}
+.lower_logo_part{
+    text-align: center;
+}
+.contracttt{
+    text-align: center;
+}
+.contracttt h3 {
+	
+	font-size: 30px;
+
+}
+.marginbottom {
+	margin-bottom: 0px;
+	text-align: center;
+}
+.iconsphone {
+	margin-bottom: -36px;
+	margin-left: 89px;
+	margin-top: 15px;
+}
+.importlink{
+    text-align: center;
+}
+.importlink h3 {
+	font-size: 30px;
+
+}
+.importlink_part{
+    margin-top: 30px;
+}
+.fliker_item h3 {
+	font-size: 30px;
+	
+}
+.fliker_part{
+    text-align: center;
+    margin-top: 30px;
+}
+.fliker_img{
+    margin-top: 20px;
+}
+
+.last_text{
+    text-align: center;
+}
+
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.up_text{
+    text-align: center;
+}
+.ms-auto {
+	text-align: center;
+}
+.banner_text {
+
+	text-align: center;
+}
+.top_tsext{
+    text-align: center;
+}
+.mthg_top {
+	margin-top: 60px;
+}
+.logoss {
+	left: 44%;
+}
+.marontop02 {
+	margin-top: 25px;
+}
+.team_icon {
+	
+	right: 32%;
+}
+.team_icon {
+	
+	right: 32%;
+}
+.team_icon01 {
+	
+	right: 32%;
+}
+.team_icon02 {
+	
+	right: 32%;
+}
+.team_icon03 {
+	
+	right: 32%;
+}
+.text-center {
+	margin-top: 30px;
+}
+.lower_logo_part{
+    text-align: center;
+}
+.contracttt{
+    text-align: center;
+}
+.contracttt h3 {
+	
+	font-size: 30px;
+
+}
+.marginbottom {
+	margin-bottom: 0px;
+	text-align: center;
+}
+.iconsphone {
+	margin-bottom: -36px;
+	margin-left: 89px;
+	margin-top: 15px;
+}
+.importlink{
+    text-align: center;
+}
+.importlink h3 {
+	font-size: 30px;
+
+}
+.importlink_part{
+    margin-top: 30px;
+}
+.fliker_item h3 {
+	font-size: 30px;
+	
+}
+.fliker_part{
+    text-align: center;
+    margin-top: 30px;
+}
+.fliker_img{
+    margin-top: 20px;
+}
+
+.last_text{
+    text-align: center;
+}
+
+
+
+
+
+
+  }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .up_icons {
+        margin-left: 4px;
+    }
+    .marontop02 {
+        margin-top: -60px;
+    }
+    .testmonial_itemss {
+ 
+        height: 200px;
+    }
+
+
+
+
+
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
